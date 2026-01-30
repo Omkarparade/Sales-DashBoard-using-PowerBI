@@ -60,8 +60,3 @@ These measures dynamically respond to filters such as **Year, Month, Region, Cat
 
 ---
 
-## 🖼️ Dashboard Preview
-(Add screenshots of the dashboard here)
-
-```md
-![Sales Dashboard](Screenshot 2026-01-30 210732.png)
