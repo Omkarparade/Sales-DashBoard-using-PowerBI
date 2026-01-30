@@ -19,4 +19,4 @@ To analyze sales data and build an interactive Power BI dashboard that provides 
 Sample sales dataset used for analysis.
 
 ## Dashboard Preview
-![Dashboard Preview](Screenshot 2026-01-30 210732.png")
+![Dashboard Preview](Screenshot 2026-01-30 210732.png)
